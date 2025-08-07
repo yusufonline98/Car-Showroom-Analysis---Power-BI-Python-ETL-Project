@@ -22,7 +22,7 @@ This project simulates an analytics task for a car showroom company ("Hot Wheels
 - `ETL_Car_Showroom.ipynb` – Data processing in Python
 - `dashboard/` – Power BI file (.pbix)
 - `output/` – Final Excel used in Power BI
-- `assets/` – Screenshots of dashboard
+- `assets/` – [Screenshots of dashboard](https://github.com/yusufonline98/Car-Showroom-Analysis---Power-BI-Python-ETL-Project/blob/main/Powerbi_car_showroom_dashboard.png)
 
 ## 🛠 Tools Used
 - Python (Jupyter Notebook via Anaconda)
