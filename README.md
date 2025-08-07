@@ -18,10 +18,8 @@ This project simulates an analytics task for a car showroom company ("Hot Wheels
 - KPI cards for high-level insights
 
 ## 📁 Folder Structure
-- `data/` – Source files
 - `ETL_Car_Showroom.ipynb` – Data processing in Python
-- `dashboard/` – Power BI file (.pbix)
-- `output/` – Final Excel used in Power BI
+- `dashboard/` – C:\Users\yusuf\OneDrive\Desktop\yusuf\payslip3\payslip3
 - `assets/` – [Screenshots of dashboard](https://github.com/yusufonline98/Car-Showroom-Analysis---Power-BI-Python-ETL-Project/blob/main/Powerbi_car_showroom_dashboard.png)
 
 ## 🛠 Tools Used
