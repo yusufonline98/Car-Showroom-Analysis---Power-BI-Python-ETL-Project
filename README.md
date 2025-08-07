@@ -19,7 +19,7 @@ This project simulates an analytics task for a car showroom company ("Hot Wheels
 
 ## 📁 Folder Structure
 - `ETL_Car_Showroom.ipynb` – Data processing in Python
-- `dashboard/` – C:\Users\yusuf\OneDrive\Desktop\yusuf\payslip3\payslip3
+- `dashboard/` – power bi.pbix
 - `assets/` – [Screenshots of dashboard](https://github.com/yusufonline98/Car-Showroom-Analysis---Power-BI-Python-ETL-Project/blob/main/Powerbi_car_showroom_dashboard.png)
 
 ## 🛠 Tools Used
