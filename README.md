@@ -45,8 +45,7 @@ The goal was to:
 - Drill-through on Customer → See all bookings for that customer
 - Tooltips showing old price vs. new price and discount applied
 
-## 📁 Folder Structure
-- `ETL_Car_Showroom.ipynb` – Data processing in Python
-- `dashboard/` – [power bi.pbix](https://github.com/yusufonline98/Car-Showroom-Analysis---Power-BI-Python-ETL-Project/blob/main/power%20bi.pbix)
-- `assets/` – <img width="1276" height="665" alt="Powerbi_car_showroom_dashboard" src="https://github.com/user-attachments/assets/623ecbd2-78f4-4cb3-ae6d-a223e4734e90" />
+## 📁 Repository Structure
+- `dashboard:` – [power bi.pbix](https://github.com/yusufonline98/Car-Showroom-Analysis---Power-BI-Python-ETL-Project/blob/main/power%20bi.pbix)
+- `assets:` – <img width="1276" height="665" alt="Powerbi_car_showroom_dashboard" src="https://github.com/user-attachments/assets/623ecbd2-78f4-4cb3-ae6d-a223e4734e90" />
 
